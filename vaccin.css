@@ -1,0 +1,43 @@
+.body {​​​​​
+    font-size-adjust: 50px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, .6);
+    background-image: url("cykel.jpg");
+    background-blend-mode: multiply;
+    background-size: 100%, 100%;
+}​​​​​
+
+h1 {​​​​​
+    font-size-adjust: 50px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}​​​​​
+
+header {
+    background-color: #000000;
+    border-image: auto;
+}
+
+.logo {
+    width: 45%;
+    height: 30%;
+    padding: 5px;
+}
+
+.button {
+    background-color:#5f9ea0;
+    border: 3px;
+    color: #000000;
+    text-align: center;
+    font-size: 16px;
+    margin: 6px 6px;
+}
+/*.background-pic {
+
+}*/
+
+/*    ,Texten i min body skall vara centrerad, färgen är svart. Bakgrundsbilden har en transperent svart färg (0,6 opacity), länk till bilden,  ,storleken ligger på 100% vilket gör den responsiv. */
+
+
+/*Kolla upp text-sizt adjust & background-blend-mode*/
